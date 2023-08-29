@@ -10,7 +10,7 @@
     "watch": "rollup -c -w"
   },
   "dependencies": {
-    "openpgp": "^5.5.0"
+    "openpgp": "^5.10.1"
   },
   "devDependencies": {
     "@ciphereditor/types": "*",
